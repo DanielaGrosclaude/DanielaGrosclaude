@@ -1,5 +1,3 @@
-Hello! I am Daniela Grosclaude.  
-
-I am taking my first steps in web development.
-Currently I'm learning React and SQL. 🌱
-In my free time you can find me drawing. ✍🏽
+Daniela Grosclaude. 26. Caba. 
+Estudiante de la Tecnicatura en Programacion - UTN.
+Desarrollo Frontend - CoderHouse. 
